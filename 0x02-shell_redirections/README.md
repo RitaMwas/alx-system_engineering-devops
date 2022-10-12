@@ -9,4 +9,5 @@ Write a shell script that creates a file and contains given contenti script that
 Write a script that duplicates the last line of the file iacta
 A script that deletes all the regular files with a .js
 Write a script that counts the number of directories and sub-directories in the current directory
-Create a script that displays the 10 newest files in the current directory 
+Create a script that displays the 10 newest files in the current directory
+A script that takes a list of words as input and prints only words that appear exactly once 
