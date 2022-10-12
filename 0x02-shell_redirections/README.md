@@ -5,3 +5,4 @@ Display the content of two files
 Display the last 10 lines of a file
 Display the first 10 lines of a file
 Display content of a certain line of a file
+Write a shell script that creates a file and contains given contents
