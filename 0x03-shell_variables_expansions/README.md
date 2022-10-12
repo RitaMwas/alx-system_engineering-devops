@@ -15,3 +15,4 @@ Prints a number with two decimal places, followed by a new line
 Converts a number from base 10 to base 16
 Encodes and decodes text using the rot13 encryption. Assume ASCII
 Prints every other line from the input, starting with the first line
+A shell script that adds the two numbers stored in the environment variables
