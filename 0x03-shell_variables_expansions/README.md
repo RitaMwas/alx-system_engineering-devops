@@ -4,3 +4,4 @@ Command line path
 Create a script that counts the number of directories
 Listing environment variables
 Listing all local variables and environment variables, and functions
+Create a script that creates a new local variable
