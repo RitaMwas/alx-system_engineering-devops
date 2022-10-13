@@ -16,3 +16,4 @@ Display the number of lines that contain the pattern “bin” in the file /etc/
 Print N lines after pattern matching
 Invert the pattern match
 Display all lines of a file starting with a letter
+Replacing characters
