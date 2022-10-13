@@ -18,3 +18,4 @@ Invert the pattern match
 Display all lines of a file starting with a letter
 Replacing characters
 A script that removes all letters c and C from input
+Write a script that reverse its input
