@@ -21,3 +21,4 @@ A script that removes all letters c and C from input
 Write a script that reverse its input
 Display all users and their home directories, sorted by users
 Find all empty files and directories in the current directory and all sub-directories
+All the files with a .gif extension in the current directory and all its sub-directories
